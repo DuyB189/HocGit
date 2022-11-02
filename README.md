@@ -1,2 +1,2 @@
 # HocGitWithMe 
-## change (thay the)
+## change (thaythe) 
